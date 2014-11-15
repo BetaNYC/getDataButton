@@ -18,3 +18,4 @@ A Web Button to Link Web Projects with their Source Data
 ![36x13](https://raw.githubusercontent.com/betanyc/getDataButton/master/png/36x13.png)
 
 
+Icon made by Freepik from [www.flaticon.com](http://www.flaticon.com) is licensed by [CC BY 3.0](http://creativecommons.org/licenses/by/3.0/)

@@ -4,7 +4,7 @@ getDataButton
 A Web Button to Link Web Projects with their Source Data
 
 ##How to use
-When building a website, report, map, data visualization, or any other project, use this button to link to the underlying data.  That's it!  Tell your friends!  
+When building a website, report, map, data visualization, or any other project, use this button to link to the underlying data.  That's it!  Tell your friends!  Let's make this a thing!
 
 ![180x60](https://raw.githubusercontent.com/betanyc/getDataButton/master/png/180x60.png)
 
